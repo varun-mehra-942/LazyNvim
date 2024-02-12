@@ -3,7 +3,6 @@
     "lazyvim.plugins.extras.dap.core",
     "lazyvim.plugins.extras.dap.nlua",
     "lazyvim.plugins.extras.lang.clangd",
-    "lazyvim.plugins.extras.lang.omnisharp",
     "lazyvim.plugins.extras.ui.alpha"
   ],
   "news": {
