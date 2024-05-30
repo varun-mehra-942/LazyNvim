@@ -1,12 +1,10 @@
 {
   "extras": [
     "lazyvim.plugins.extras.dap.core",
-    "lazyvim.plugins.extras.dap.nlua",
-    "lazyvim.plugins.extras.lang.clangd",
-    "lazyvim.plugins.extras.ui.alpha"
+    "lazyvim.plugins.extras.dap.nlua"
   ],
   "news": {
-    "NEWS.md": "2123"
+    "NEWS.md": "4964"
   },
-  "version": 2
+  "version": 6
 }
